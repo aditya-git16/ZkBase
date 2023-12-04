@@ -15,3 +15,4 @@ Can you prove you know x such that 23x = 161? Can you generalize this to more va
 
 As another hint: you (the prover) and the verifier need to agree on the formula in advance, as the verifier will be running the same “structure” of the original formula you claim to know the solution for.
 
+3. https://en.wikipedia.org/wiki/Baby-step_giant-step
