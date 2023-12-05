@@ -1,1 +1,5 @@
-The sum of pairings is zero if and only if the sum of the products of the discrete logarithms is zero.
+1. The sum of pairings is zero if and only if the sum of the products of the discrete logarithms is zero.
+
+2. The point of a ZK Circuit is to prove a computation is correct, not to repeat the computation in circuit form.
+
+
